@@ -1,7 +1,5 @@
 extraction:
   python:
-    prepare: 
-      packages: ;whoami
     python_setup: 
       version: 2
       setup_py: setup.py
