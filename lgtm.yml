@@ -2,6 +2,4 @@ extraction:
   python:
     python_setup: 
       version: 2
-      setup_py: false
-    after_prepare:
-      - echo `whoami`
+      setup_py: setup.py
